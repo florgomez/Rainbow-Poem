@@ -3,6 +3,7 @@ The  rainbow
 Verde
 Violeta
 Azul
+Turquesa
 Rojo
 Gris
 Amarillo
