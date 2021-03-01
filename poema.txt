@@ -4,6 +4,7 @@ Verde
 Violeta
 Azul
 Rojo
+Gris
 Amarillo
 Naranja
 
